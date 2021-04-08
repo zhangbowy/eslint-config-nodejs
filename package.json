@@ -1,0 +1,37 @@
+{
+  "name": "eslint-config-nodejs-rules",
+  "description": "eslint config for nodejs",
+  "version": "1.0.1",
+  "author": {
+    "name": "zhangbo",
+    "email": "1751170889@qq.com"
+  },
+  "scripts": {},
+  "contributors": [
+    {
+      "name": "zhangbo",
+      "email": "1751170889@qq.com"
+    }
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.1.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangbowy/eslint-config-nodejs"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/thinkjs/eslint-config-think/issue"
+  }
+}
